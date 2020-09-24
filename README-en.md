@@ -1,5 +1,5 @@
 <h1 align="center">
-UI Clone (Motion) - Typeform Homepage
+UI Clone - Linkedin Homepage
 </h1>
 
 <hr>
@@ -11,7 +11,7 @@ UI Clone (Motion) - Typeform Homepage
 </p>
 
 <h4 align="center"> 
-	🚧  Ui-Clone 🚀 progress 🚀 🚧
+	🚧  Ui-Clone - Linkedin Homepage 🚀 progress 🚀 🚧
 </h4>
 <p align="center">Deployed <a href="https://youtube-clone-motion-typeform-homepage.netlify.app/">here</a>.</p>
 
@@ -25,7 +25,7 @@ UI Clone (Motion) - Typeform Homepage
 
 ## About
 
-Animated Typeform Homepage with Framer Motion (ReactJS) | UI clone for study purposes.
+Responsive Linkedin Homepage UI clone for study purposes.
 
 Project developed during the **UI Clone** offered by [Rocketseat](https://www.youtube.com/watch?v=O2xM5H7Ooj4&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=11).
 
@@ -35,7 +35,7 @@ Project developed during the **UI Clone** offered by [Rocketseat](https://www.yo
 
 This project is done in one part:
 
-1. Frontend (youtube-clone-typeform-homepage folder)
+1. Frontend (youtube-clone-linkedin folder)
 
 ### Pré-requisites
 
@@ -47,19 +47,19 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 
 ```bash
 
-# Clone this repository
-$ git clone https://github.com/marcelo-rafael/youtube-clone-motion-typeform-homepage/
+# Clone este repositório
+$ git clone https://github.com/marcelo-rafael/youtube-clone-linkedin/
 
-# Access the project folder in your terminal
-$ cd primeiro-projeto-com-react
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd youtube-clone-linkedin
 
-# Install the dependencies
+# Instale as dependências
 $ yarn install or npm install
 
-# Run the application in development mode
+# Execute a aplicação em modo de desenvolvimento
 $ yarn start or npm run start
 
-# The application will open on the port:3000 - acesse http://localhost:3000
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
 ```
 
@@ -74,7 +74,7 @@ The following tools were used in the construction of the project:
 -   **[framer/motion](https://github.com/framer/motion)**
 -   **[Styled Components](https://github.com/styled-components/styled-components)**
 
-> See the file  [package.json](https://github.com/marcelo-rafael/primeiro-projeto-com-react/blob/master/package.json)
+> See the file  [package.json](https://github.com/marcelo-rafael/youtube-clone-linkedin/blob/master/package.json)
 
 ---
 
